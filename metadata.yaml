@@ -1,0 +1,29 @@
+_repo: The-Slant-Book_17254
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 17254-h/images/cover-th.jpg
+creator:
+  author:
+    agent_name: Newell, Peter
+    alias: Newell, P. S. (Peter S.)
+    birthdate: 1862
+    deathdate: 1924
+    gutenberg_agent_id: '7143'
+    url: http://www.gutenberg.org/2009/agents/7143
+description: ''
+gutenberg_issued: '2005-12-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17254'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Humorous poetry'
+- !lcsh 'Stories in rhyme'
+- !lcsh 'Children''s poetry'
+- !lcc 'PZ'
+title: The Slant Book
+url: http://www.gutenberg.org/ebooks/17254
